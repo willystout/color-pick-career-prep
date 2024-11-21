@@ -1,0 +1,16 @@
+# Python
+colorpick/
+venv/
+__pycache__/
+*.py[cod]
+*.so
+
+# Node
+node_modules/
+.next/
+.env
+.env.local
+
+# OS
+.DS_Store
+*.log
